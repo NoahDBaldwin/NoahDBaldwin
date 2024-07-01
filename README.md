@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>HTML and CSS websites</b>
-  - [Name of project](github URL)
+  - [Paradigm Pets](https://github.com/NoahDBaldwin/ParadigmPets-Webpage)
   - [Name of project](github URL)
 - <b>JavaScript Web Development</b>
   - [Name of Project](github URL) 
