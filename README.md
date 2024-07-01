@@ -6,13 +6,13 @@
   - [Paradigm Pets](https://github.com/NoahDBaldwin/ParadigmPets-Webpage)
   - [Taniti Website](https://github.com/NoahDBaldwin/Taniti-Website/tree/main)
 - <b>JavaScript Web Development</b>
-  - [Name of Project](github URL) 
+  - In Progress() 
 - <b>Angular Web Development</b>
-  - [Name of Project](github URL)
+  - [Interactive SVG Map](https://github.com/NoahDBaldwin/SVG-Map)
 - <b>Python</b>
-  - [Name of Project](github URL)
+  - In Progress()
 - <b>MySQL</b>
-  - [Name of Project](gitHub URL)
+  - In Progress()
  
 <h2>📜Certifications:</h2>
 
