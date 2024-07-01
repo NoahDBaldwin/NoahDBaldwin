@@ -13,6 +13,12 @@
   - [Name of Project](github URL)
 - <b>MySQL</b>
   - [Name of Project](gitHub URL)
+ 
+<h2>📜Certifications:</h2>
+
+- <b>ITIL 4 Foundation</b>
+- <b>CompTIA Project+</b>
+- <b>AWS Certified Cloud Practitioner</b>
 
 <h2> 🤳 Connect with me:</h2>
 
