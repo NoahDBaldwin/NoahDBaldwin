@@ -5,8 +5,8 @@
 - <b>HTML and CSS websites</b>
   - [Paradigm Pets](https://github.com/NoahDBaldwin/ParadigmPets-Webpage)
   - [Taniti Website](https://github.com/NoahDBaldwin/Taniti-Website/tree/main)
-- <b>JavaScript Web Development</b>
-  - In Progress() 
+- <b>JavaScript</b>
+  - [Dead Calculator](https://github.com/NoahDBaldwin/Dead-Calculator) 
 - <b>Angular Web Development</b>
   - [Interactive SVG Map](https://github.com/NoahDBaldwin/SVG-Map)
 - <b>Python</b>
