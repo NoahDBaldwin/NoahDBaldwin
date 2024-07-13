@@ -9,10 +9,7 @@
   - [Dead Calculator](https://github.com/NoahDBaldwin/Dead-Calculator) 
 - <b>Angular Web Development</b>
   - [Interactive SVG Map](https://github.com/NoahDBaldwin/SVG-Map)
-- <b>Python</b>
-  - In Progress()
-- <b>MySQL</b>
-  - In Progress()
+
  
 <h2>📜Certifications:</h2>
 
