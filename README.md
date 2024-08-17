@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C#</b>
-  - [Inventory Management System using Windows Forms and OOP  (Coming this weekend)]()
+  - [Inventory Management System using Windows Forms and OOP]()
 - <b>JavaScript</b>
   - [Dead Calculator](https://github.com/NoahDBaldwin/Dead-Calculator) 
 - <b>Angular Web Development</b>
