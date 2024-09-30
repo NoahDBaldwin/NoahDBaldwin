@@ -4,8 +4,8 @@
 
 - <b>C#</b>
   - [Inventory Management System using Windows Forms and OOP](https://github.com/NoahDBaldwin/InventoryManagementSystem)
-  - [Scheduling Application using Windows Forms and OOP](https://github.com/NoahDBaldwin/Scheduling-Application)
-  - [Term Tracker Mobile Application using .NET MAUI](https://github.com/NoahDBaldwin/Term-Tracker).
+  - [Scheduling Application using Windows Forms, MySQL, and OOP](https://github.com/NoahDBaldwin/Scheduling-Application)
+  - [Term Tracker Mobile Application using .NET MAUI, and SQLite](https://github.com/NoahDBaldwin/Term-Tracker).
 - <b>JavaScript</b>
   - [Dead Calculator](https://github.com/NoahDBaldwin/Dead-Calculator) 
 - <b>Angular Web Development</b>
